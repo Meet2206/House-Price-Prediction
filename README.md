@@ -1,4 +1,4 @@
-# House Price Prediction with Synthetic Data
+# House Price Prediction with Synthetic Data 📈 🏘️
 
 This project predicts house prices using a synthetically generated dataset. The model considers various features such as size, house type, city, area, number of rooms, and house age to estimate the property price. The pipeline includes data generation, EDA (Exploratory Data Analysis), preprocessing, model training, evaluation, and visualization.
 
